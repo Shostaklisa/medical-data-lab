@@ -1,0 +1,13 @@
+subject_id,ae_term,ae_start_date,ae_end_date,severity,serious,relationship,ongoing
+S001,Headache,2023-01-12,2023-01-14,Mild,No,Related,No
+S002,Nausea,2023-01-04,2023-01-06,Moderate,No,Related,No
+S003,Hepatotoxicity,2023-02-01,,Severe,Yes,Related,Yes
+S005,Dizziness,2023-01-19,2023-01-21,Mild,No,Not Related,No
+S006,Fatigue,2023-02-01,2023-02-10,Moderate,No,Related,No
+S007,Headache,2023-02-01,2023-02-03,Mild,No,Related,No
+S008,Nausea,2023-01-28,2023-01-30,Mild,No,Related,No
+S010,Palpitations,2023-02-02,2023-02-04,Moderate,No,Related,No
+S012,Headache,2023-02-06,2023-02-08,Mild,No,Related,No
+S015,Hepatotoxicity,2023-02-12,,Severe,Yes,Related,Yes
+S018,Dizziness,2023-02-18,2023-02-20,Mild,No,Not Related,No
+S020,Nausea,2023-02-22,2023-02-24,Moderate,No,Related,No
