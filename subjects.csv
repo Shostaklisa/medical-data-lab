@@ -1,0 +1,21 @@
+subject_id,site_id,sex,age,enrollment_date,status,withdrawal_reason
+S001,Site01,F,54,2023-01-10,completed,
+S002,Site01,M,62,2023-01-12,completed,
+S003,Site02,F,47,2023-01-15,withdrawn,AE
+S004,Site02,M,59,2023-01-18,active,
+S005,Site03,F,66,2023-01-20,completed,
+S006,Site03,M,51,2023-01-22,completed,
+S007,Site01,F,43,2023-01-25,completed,
+S008,Site02,M,70,2023-01-27,withdrawn,Lack of efficacy
+S009,Site03,F,58,2023-01-29,active,
+S010,Site01,M,61,2023-02-01,completed,
+S011,Site01,F,55,2023-02-03,completed,
+S012,Site02,M,49,2023-02-05,active,
+S013,Site03,F,63,2023-02-07,completed,
+S014,Site01,M,52,2023-02-09,completed,
+S015,Site02,F,46,2023-02-11,withdrawn,AE
+S016,Site03,M,67,2023-02-13,active,
+S017,Site01,F,50,2023-02-15,completed,
+S018,Site02,M,60,2023-02-17,completed,
+S019,Site03,F,57,2023-02-19,active,
+S020,Site01,M,65,2023-02-21,completed,
