@@ -24,7 +24,16 @@
 | `Labs`     | Лабораторные показатели |
 
 ---
+## Логика проверки данных (Data Validation)
 
+В проекте задокументированы примеры правил валидации клинических данных,
+используемых при clinical data review, включая логические, межформенные и временные проверки.
+Эти правила помогают выявлять несоответствия, аномалии и формировать data queries.
+
+Подробная документация доступна в файле: CLINICAL_DATA_REVIEW_GUIDE
+
+https://github.com/Shostaklisa/medical-data-lab/blob/main/projects/clinical_data_review/CLINICAL_DATA_REVIEW_GUIDELINES.md
+---
 ## I. Подготовка данных
 
 - Импорт необходимых библиотек  
