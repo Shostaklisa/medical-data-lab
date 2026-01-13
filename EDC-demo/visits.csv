@@ -1,0 +1,13 @@
+"Record ID","Repeat Instrument","Repeat Instance","Visit number","Visit date","Visit type","Visit completed",Comments,Complete?
+1,,,,,,,,
+1,Visits,1,1,2023-01-10,Screening,Yes,"Initial screening visit",Complete
+1,Visits,2,2,2023-01-20,Baseline,Yes,"Baseline assessment completed",Complete
+1,Visits,3,3,2023-02-20,Follow-up,No,"Lost to follow-up",Complete
+2,,,,,,,,
+2,Visits,1,1,2023-03-01,Screening,Yes,"Initial screening visit",Complete
+2,Visits,2,2,2023-03-10,Baseline,Yes,"Baseline assessment",Complete
+2,Visits,3,3,2023-04-10,Follow-up,Yes,"Follow-up completed",Complete
+3,,,,,,,,
+3,Visits,1,1,2023-03-01,Screening,Yes,"Eligibility confirmed",Complete
+3,Visits,2,2,2023-03-05,Baseline,Yes,"Study drug administered",Complete
+3,Visits,3,3,2023-03-19,Follow-up,Yes,"No adverse events reported",Complete

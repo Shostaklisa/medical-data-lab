@@ -1,0 +1,7 @@
+"Record ID","Repeat Instrument","Repeat Instance","Event number","AE term","AE start date","AE end date",Severity,Outcome,"Related to study drug",Comment,Complete?
+1,,,,,,,,,,,
+1,"Adverse Events",1,1,Headache,2023-01-12,2023-01-14,Mild,Recovered,No,"Mild headache after visit",Complete
+1,"Adverse Events",2,2,Nausea,2023-01-15,2023-01-16,Moderate,Recovered,Yes,"Nausea after baseline dose",Complete
+2,,,,,,,,,,,
+2,"Adverse Events",1,1,Fatigue,2023-02-05,,Mild,"Not recovered",Yes,"Ongoing fatigue reported by subject",Complete
+3,,,,,,,,,,,
